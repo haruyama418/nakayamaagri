@@ -1,0 +1,115 @@
+.header{
+  background-image:url(image/IMG_7887.jpg);
+  background-size:cover;
+
+
+  height:150px;
+}
+.header-logo{
+  font-size: 70px;
+  color:#fff;
+  font-family:"suns-sans-serif","arial unicode ms";
+  float:left;
+}
+.logo-pic{
+  margin-right: 10px;
+}
+.header-logo p{
+  font-size:25px;
+
+}
+/*span{
+  color:red;
+  background:linear-gradient(transparent 50%, yellow 50%) ;
+}*/
+.header-list{
+  float:right;
+  /*border:2px solid red;*/
+
+}
+.header-list a{
+
+  /*border:2px solid blue;*/
+  list-style: none;
+  float:left;
+  color:#fff;
+  font-weight:bold;
+  font-size:25px;
+  padding:0px 20px 15px 20px ;
+  margin-bottom:30px;
+
+
+}
+.header-list a:hover{
+  transition:all 0.5s;
+  font-weight:bold;
+  font-size:30px;
+  color:#00BFFF;
+}
+.header-list a:active{
+  position: relative;
+  font-size:30px;
+  top:6px
+}
+
+.bar{
+  background-color:rgba(189,183,107,0.5);
+  background-size: auto;
+  height:60px;
+
+
+}
+
+.content1{
+  background-image:url(image/geo.jpg);
+  background-size:cover;
+  height:1000px;
+  background-color:rgba(255,255,255,0.3);
+  background-blend-mode:lighten;
+  /*border:1px solid blue;*/
+
+}
+.content2{
+  background-image:url(image/geo.jpg);
+  background-size:cover;
+  height:1000px;
+  background-color:rgba(255,255,255,0.3);
+  background-blend-mode:lighten;
+  /*border:1px solid red;*/
+}
+.content3{
+  background-image:url(image/geo.jpg);
+  background-size:cover;
+  height:1000px;
+  background-color:rgba(255,255,255,0.3);
+  background-blend-mode:lighten;
+  /*border:1px solid pink;*/
+}
+.content4{
+  background-image:url(image/geo.jpg);
+  background-size:cover;
+  height:1000px;
+  background-color:rgba(255,255,255,0.3);
+  background-blend-mode:lighten;
+  /*border:1px solid green;*/
+}
+
+.contents h1{
+  font-size:80px;
+  color:darkgray;
+  border-bottom:5px solid orange;
+}
+span{
+  font-size:90px;
+  font-weight:bold;
+}
+.contents{
+  line-height: 50px;
+  font-size:25px;
+  letter-spacing:3px;
+
+}
+.content2 h1{
+
+
+}
